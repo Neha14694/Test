@@ -4,5 +4,5 @@ console.log(g);
 // document.getElementById("b").innerHTML = g.Hello[1] + " is " + g.Zoo.Monkey;
 
 function test() {
-    document.getElementById("b").innerHTML = "My first JS";
+    document.getElementById("b").innerHTML = "My very first JS";
 }
